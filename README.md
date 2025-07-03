@@ -1,8 +1,3 @@
-names:
-  0: bike
-  1: helmet
-  2: passengerHelmet Detection with YOLOv8
-
 <p align="center"> <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-green?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Colab-GPU-yellow?style=flat-square"/> </p>
 
 Descrição:
