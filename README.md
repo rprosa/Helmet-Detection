@@ -1,4 +1,7 @@
-Helmet Detection with YOLOv8
+names:
+  0: bike
+  1: helmet
+  2: passengerHelmet Detection with YOLOv8
 
 <p align="center"> <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-green?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Colab-GPU-yellow?style=flat-square"/> </p>
 
@@ -24,13 +27,10 @@ Tecnologias e ferramentas:
 Dataset
 📦 Dataset: Helmet Detection (Kaggle)
 
-Classes:
-
-- 0: rider
-
-- 1: helmet
-
-- 2: no_helmet
+Classes names:
+  0: bike
+  1: helmet
+  2: passenger
 
 Pré-requisitos
 - Conta no Google Colab ou ambiente local com GPU CUDA configurada.
